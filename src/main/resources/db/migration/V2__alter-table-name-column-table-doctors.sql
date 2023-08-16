@@ -1,0 +1,1 @@
+ALTER TABLE doctors RENAME COLUMN complemento TO complement
